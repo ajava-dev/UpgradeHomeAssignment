@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "x-cf-source-id": "coding-challenge",
+    "x-cf-corr-id": 1234
+  }
+}

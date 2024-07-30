@@ -1,0 +1,11 @@
+{
+  "body": {
+    "loanAppUuid": "b8096ec7-2150-405f-84f5-ae99864b3e96",
+    "skipSideEffects": true
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "x-cf-source-id": "coding-challenge",
+    "x-cf-corr-id": 1234
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "x-cf-source-id": "coding-challenge",
+    "x-cf-corr-id": 1234
+  },
+  "params": {
+    "param1": "test1",
+    "param2": "test2"
+  }
+}
