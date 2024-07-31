@@ -44,7 +44,7 @@ Log location
 # Surefire report
 - Surefire report is generated under target/surefire-reports
 - Emailable report could be viewed at target/surefire-reports/emailable-report.html.
-- Allure reporting could be used to make report look prettier but did not have to implement the same.
+- Allure reporting could be used to make report look prettier but did not have time to implement the same.
 
 ## Observation
 For a POST request to 
